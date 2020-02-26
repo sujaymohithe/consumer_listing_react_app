@@ -1,0 +1,21 @@
+.main-header {
+    position: relative;
+    max-height: 100px;
+    height: 48px;
+    z-index: 1030;
+    background-color: #01929f;
+}
+
+.main-header .logo {
+    display: block;
+    float: left;
+    height: 48px;
+    font-size: 20px;
+    line-height: 50px;
+    width: auto;
+    font-family: 'Graphik-Semibold';
+    padding: 0 21px;
+    font-weight: 300;
+    text-decoration: none;
+    color: #fff;
+}

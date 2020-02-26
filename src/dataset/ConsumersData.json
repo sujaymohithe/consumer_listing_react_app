@@ -1,0 +1,46 @@
+{
+  "consumers": [
+    {
+      "name": "Martian Firma",
+      "budget": 1111111111111,
+      "budget_spent": 4500.6,
+      "date_of_first_purchase": "2119-07-07",
+      "id": 1
+    },
+    {
+      "name": "Solar Firma",
+      "budget": 123123123123,
+      "budget_spent": 451.3753,
+      "date_of_first_purchase": "2120-01-14",
+      "id": 2
+    },
+    {
+      "name": "Jupiter Firma",
+      "budget": 4521,
+      "budget_spent": 4500,
+      "date_of_first_purchase": "2119-07-07",
+      "id": 3
+    },
+    {
+      "name": "Earth Firma",
+      "budget": 999,
+      "budget_spent": 451.3754,
+      "date_of_first_purchase": "2120-01-29",
+      "id": 4
+    },
+    {
+      "name": "Martian South Firma",
+      "budget": 2934.23,
+      "budget_spent": 851.3753,
+      "date_of_first_purchase": "2120-05-14",
+      "id": 5
+    },
+    {
+      "name": "Martian North Firma",
+      "budget": 951.38,
+      "budget_spent": 951.3753,
+      "date_of_first_purchase": "2120-02-15",
+      "id": 6
+    }
+  ]
+}
